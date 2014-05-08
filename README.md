@@ -10,3 +10,4 @@ To build
 To run
 
 >java -jar target/console-uploadexample-0.0.1.jar [arguments]
+
